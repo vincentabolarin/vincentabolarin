@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vincentabolarin
-- 👀 I’m a Full-Stack JavaScript Engineer.
+- 👋 Hi, I’m @vincentabolarin.
+- 👀 I am a Full-Stack JavaScript Engineer.
 - 🌱 My Tech Stack:
   - HTML
   - CSS
