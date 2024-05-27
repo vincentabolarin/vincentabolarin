@@ -1,6 +1,18 @@
 - 👋 Hi, I’m @vincentabolarin
-- 👀 I’m a JavaScript developer.
-- 🌱 I write React, Next.js and Angular.
+- 👀 I’m a Full-Stack JavaScript Engineer.
+- 🌱 My Tech Stack:
+  - HTML
+  - CSS
+  - SCSS
+  - JavaScript
+  - React
+  - Next.js
+  - Vue
+  - Angular
+  - Node.js
+  - MongoDB
+  - Firebase
+  - PostgreSQL
 
 <!---
 vincentabolarin/vincentabolarin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
