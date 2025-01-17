@@ -3,7 +3,7 @@
 - 🌱 My Tech Stack:
   - HTML
   - CSS
-  - SASS
+  - SCSS
   - JavaScript
   - React
   - Next.js
