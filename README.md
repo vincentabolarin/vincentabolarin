@@ -10,6 +10,7 @@
   - Vue
   - Angular
   - Node.js
+  - Express
   - MongoDB
   - Firebase
   - PostgreSQL
