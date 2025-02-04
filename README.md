@@ -5,6 +5,7 @@
   - CSS
   - SCSS
   - JavaScript
+  - TypeScript
   - React
   - Next.js
   - Vue
