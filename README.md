@@ -15,7 +15,6 @@
   - MongoDB
   - Firebase
   - PostgreSQL
-  - Prisma
   - Docker
   - Jest
 
